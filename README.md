@@ -32,7 +32,7 @@
 ### 🧰 Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,supabase,php,python,cpp,mysql,html,css,git,github,vscode,ps,pr&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,vercel,figma,github,pr,ps&theme=dark" alt="Tech stack" />
 </p>
 
 ### 🚀 Featured projects
