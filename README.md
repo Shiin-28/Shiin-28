@@ -11,6 +11,11 @@
 <img src="https://komarev.com/ghpvc/?username=Shiin-28&color=a855f7&style=flat-square&label=Profile+views" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Shiin-28?style=flat-square&color=4f46e5&label=Followers" alt="Followers" />
 
+<br /><br />
+
+<a href="https://www.linkedin.com/in/sean-kenly-dela-pena-004949377/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/sean.delapena.5"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+
 </div>
 
 ---
