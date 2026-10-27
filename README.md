@@ -22,6 +22,7 @@
 
 ### 🧙 About me
 
+- 🎓 4th-year **BS Computer Science, major in Software Engineering (BSCSSE)** student at **FEU Tech**
 - 🤖 **AI-driven web developer** from the Philippines 🇵🇭: I use AI tools to plan, build and ship fast
 - 🎮 I turn ideas into useful web apps and small games
 - 🌱 Currently building with **Next.js**, **TypeScript** and **Supabase**
