@@ -46,6 +46,7 @@
 
 | Project | What it is | Built with |
 | --- | --- | --- |
+| 🃏 [**MTGDT**](https://github.com/Shiin-28/mtgdt) | Commander deck tracker for Magic: The Gathering players in the PH: mark cards you own or proxy, then find the cheapest local store prices in ₱ | Next.js · Supabase · Prisma |
 | 🪪 [**Papeles**](https://github.com/Shiin-28/Papeles) | Step-by-step guides to Philippine government IDs and documents: requirements, fees, steps and wait times | TypeScript |
 | 🐺 [**Werewolf**](https://github.com/Shiin-28/Werewolf) | Game master companion app for Werewolf, with secret roles, night actions and voting | Next.js · Supabase |
 | 🚀 [**up-up**](https://github.com/Shiin-28/up-up) | Endless 8-bit climbing game with a fuel-limited jetpack | Next.js · TypeScript |
