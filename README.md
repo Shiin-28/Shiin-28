@@ -25,12 +25,12 @@
 - 🤖 **AI-driven web developer** from the Philippines 🇵🇭: I use AI tools to plan, build and ship fast
 - 🎮 I turn ideas into useful web apps and small games
 - 🌱 Currently building with **Next.js**, **TypeScript** and **Supabase**
-- 🛠️ Also working with **PHP** and **MySQL**
+- 🛠️ Also working with **Python**, **PHP** and **MySQL**
 
 ### 🧰 Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,supabase,php,mysql,html,css,git,github,vscode&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,supabase,php,python,mysql,html,css,git,github,vscode&theme=dark" alt="Tech stack" />
 </p>
 
 ### 🚀 Featured projects
@@ -42,7 +42,7 @@
 | 🚀 [**up-up**](https://github.com/Shiin-28/up-up) | Endless 8-bit climbing game with a fuel-limited jetpack | Next.js · TypeScript |
 | 🔤 [**You Don't Actually Know The Alphabet**](https://github.com/Shiin-28/You-Dont-Actually-Know-The-Alphabet) | Fast-paced quiz where you judge alphabet-ordering statements against the clock | Next.js |
 | ⚔️ [**SideQuest**](https://github.com/Shiin-28/SideQuest) | Group project: a middleman site where clients post paid quests for service providers | PHP · MySQL |
-| ⛏️ [**Mineforge**](https://github.com/Shiin-28/Mineforge) | Programming language course project | |
+| ⛏️ [**Mineforge**](https://github.com/Shiin-28/Mineforge) | Programming language course project | Python |
 
 ### 📊 GitHub stats
 
