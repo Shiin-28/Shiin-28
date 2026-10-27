@@ -27,11 +27,12 @@
 - 🎮 I turn ideas into useful web apps and small games
 - 🌱 Currently building with **Next.js**, **TypeScript** and **Supabase**
 - 🛠️ Also working with **Python**, **PHP** and **MySQL**
+- 🎨 Creative side: photo editing in **Adobe Photoshop** and video editing in **Adobe Premiere Pro**
 
 ### 🧰 Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,supabase,php,python,mysql,html,css,git,github,vscode&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,supabase,php,python,mysql,html,css,git,github,vscode,ps,pr&theme=dark" alt="Tech stack" />
 </p>
 
 ### 🚀 Featured projects
