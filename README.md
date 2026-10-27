@@ -35,6 +35,12 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,vercel,figma,github,pr,ps&theme=dark" alt="Tech stack" />
 </p>
 
+**🤖 AI tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+</p>
+
 ### 🚀 Featured projects
 
 | Project | What it is | Built with |
