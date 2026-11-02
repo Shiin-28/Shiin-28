@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:a855f7&height=170&section=header&text=Sean%20Kenly%20Dela%20Pena&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Driven%20Web%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:a855f7&height=170&section=header&text=Sean%20Kenly%20Dela%20Pena&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Driven%20Web%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/Shiin-28">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Shiin;AI-Driven+Web+Developer;I+ship+web+apps+and+games+with+AI;Next.js+%C2%B7+TypeScript+%C2%B7+Supabase" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Shiin;AI-Driven+Web+Developer;UI%2FUX+Designer;Open+to+SWE+internships" alt="Typing intro" />
 </a>
 
 <br />
@@ -14,6 +14,7 @@
 <br /><br />
 
 <a href="https://www.linkedin.com/in/sean-kenly-dela-pena-004949377/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:seankenlydelapena@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.facebook.com/sean.delapena.5"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 </div>
@@ -23,16 +24,17 @@
 ### About me
 
 - 4th-year **BS Computer Science, major in Software Engineering (BSCSSE)** student at **FEU Tech**
-- **AI-driven web developer** from the Philippines: I use AI tools to plan, build and ship fast
-- I turn ideas into useful web apps and small games
+- **AI-driven web developer and UI/UX designer** from the Philippines: I use AI tools to plan, build and ship fast
+- UI/UX designer for **Viscrete**, my thesis team's computer-vision system for concrete defect detection
 - Currently building with **Next.js**, **TypeScript** and **Supabase**
 - Also working with **Python**, **C++**, **PHP** and **MySQL**
-- Creative side: photo editing in **Adobe Photoshop** and video editing in **Adobe Premiere Pro**
+- Creative side: photography and photo editing in **Adobe Photoshop** and **Lightroom**, video editing in **Adobe Premiere Pro**
+- **Open to software engineering internships**: reach me at [seankenlydelapena@gmail.com](mailto:seankenlydelapena@gmail.com)
 
 ### Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,vercel,figma,github,pr,ps&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,php,react,nextjs,supabase,mysql,git,github,vercel,figma,ps,pr&theme=dark" alt="Tech stack" />
 </p>
 
 **AI tools**
@@ -46,12 +48,23 @@
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [**MTGDT**](https://github.com/Shiin-28/mtgdt) | Commander deck tracker for Magic: The Gathering players in the PH: mark cards you own or proxy, then find the cheapest local store prices in ₱ | Next.js · Supabase · Prisma |
-| [**Papeles**](https://github.com/Shiin-28/Papeles) | Step-by-step guides to Philippine government IDs and documents: requirements, fees, steps and wait times | TypeScript |
-| [**Werewolf**](https://github.com/Shiin-28/Werewolf) | Game master companion app for Werewolf, with secret roles, night actions and voting | Next.js · Supabase |
+| [**Viscrete**](https://github.com/visionaries-cs/viscrete) · [demo](https://viscrete.vercel.app) | Thesis with team Visionaries: detects concrete wall defects with CLAHE preprocessing and YOLOv11, then generates a PDF inspection report. **My role: UI/UX designer** | Next.js · TypeScript · YOLOv11 |
+| [**MapaMars**](https://github.com/S-Urchin/MapaMars) · [demo](https://mapa-mars.vercel.app) | Team ProXy4: Marswalk planning app with a 2D route planner and shared missions. **I built the interactive 3D Mars globe** (landing sites, moons and orbiters via NASA JPL Horizons) and did UI/UX | React · three.js · Supabase |
+| [**Papeles**](https://github.com/Shiin-28/Papeles) · [demo](https://papeles-delta.vercel.app) | Step-by-step guides to Philippine government IDs and documents: requirements, fees, steps and wait times *(in progress)* | Next.js · Prisma · SQLite |
+| [**Werewolf**](https://github.com/Shiin-28/Werewolf) · [demo](https://jinroo.vercel.app) | Real-time game master companion app for Werewolf, with secret roles, night actions and voting on everyone's phone | Next.js · Supabase |
+| [**MTGDT**](https://github.com/Shiin-28/mtgdt) · [demo](https://mtgdt-five.vercel.app) | Commander deck tracker for Magic: The Gathering players in the PH: mark cards you own or proxy, then find the cheapest local store prices in ₱ *(in progress)* | Next.js · Supabase · Prisma |
 | [**up-up**](https://github.com/Shiin-28/up-up) | Endless 8-bit climbing game with a fuel-limited jetpack | Next.js · TypeScript |
 | [**You Don't Actually Know The Alphabet**](https://github.com/Shiin-28/You-Dont-Actually-Know-The-Alphabet) | Fast-paced quiz where you judge alphabet-ordering statements against the clock | Next.js |
 | [**SideQuest**](https://github.com/Shiin-28/SideQuest) | Group project: a middleman site where clients post paid quests for service providers | PHP · MySQL |
+
+### Experience
+
+| Role / event | What I did | When |
+| --- | --- | --- |
+| **NASA Space Apps Challenge** (team) | Built MapaMars; I developed the interactive 3D Mars globe | 2026 |
+| **Agora Voice AI Hackathon** (team) | Built a voice AI coach that helps students rehearse their thesis defense and reviews their paper for weak spots | Early 2026 |
+| **Junior Officer, Media Committee**, FEU Tech ACM Student Chapter | Photographer: shot and edited photos for event coverage and promotion | Oct 2025 – Jul 2026 |
+| **Caffeine Hackathon** (team) | Built Imbak-Chain, a humanitarian inventory management system with a real-time dashboard of aid items, partners and deployments | 2025 |
 
 ### Certifications
 
