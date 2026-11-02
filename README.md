@@ -53,6 +53,15 @@
 | [**You Don't Actually Know The Alphabet**](https://github.com/Shiin-28/You-Dont-Actually-Know-The-Alphabet) | Fast-paced quiz where you judge alphabet-ordering statements against the clock | Next.js |
 | [**SideQuest**](https://github.com/Shiin-28/SideQuest) | Group project: a middleman site where clients post paid quests for service providers | PHP · MySQL |
 
+### Certifications
+
+| Certification | Issuer | Date |
+| --- | --- | --- |
+| **PMI Project Management Ready** | Project Management Institute | Mar 2026 |
+| **Information Technology Specialist: Python** | Certiport · Pearson | Jul 2025 |
+
+Verify at [verify.certiport.com](https://verify.certiport.com) with credential IDs `w69H4-48D4` (PMI) and `or72-uS7B` (Python).
+
 ### GitHub stats
 
 <div align="center">
