@@ -13,6 +13,7 @@
 
 <br /><br />
 
+<a href="https://seankenlydelapena.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B0E16?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/sean-kenly-dela-pena-004949377/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:seankenlydelapena@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.facebook.com/sean.delapena.5"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
