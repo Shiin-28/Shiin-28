@@ -37,6 +37,12 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,php,react,nextjs,supabase,mysql,git,github,vercel,figma,ps,pr&theme=dark" alt="Tech stack" />
 </p>
 
+**Design tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge" alt="Adobe Lightroom" />
+</p>
+
 **AI tools**
 
 <p align="left">
