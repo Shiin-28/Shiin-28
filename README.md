@@ -43,9 +43,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ps,pr&theme=dark" alt="Figma, Adobe Photoshop, Adobe Premiere Pro" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge" alt="Adobe Lightroom" />
+  <img src="assets/lightroom.svg" width="48" height="48" alt="Adobe Lightroom" />
 </p>
 
 **AI tools**
