@@ -27,7 +27,7 @@
 - 4th-year **BS Computer Science, major in Software Engineering (BSCSSE)** student at **FEU Tech**
 - **AI-driven web developer and UI/UX designer** from Manila, Philippines
 - I build real-time, mobile-friendly web apps with **Next.js**, **React**, **TypeScript** and **Supabase**, and design the interfaces that make them easy to use
-- UI/UX designer for **Viscrete**, my thesis team's computer-vision system for concrete defect detection
+- UI/UX designer and QA for **Viscrete**, my thesis team's computer-vision system for concrete defect detection
 - Also working with **Python**, **C++**, **PHP**, **SQL** and **MySQL**
 - Junior Officer and photographer for the **FEU Tech ACM Student Chapter** Media Committee
 - Creative side: photo editing in **Adobe Photoshop** and **Lightroom**, video editing in **Adobe Premiere Pro**
@@ -55,7 +55,7 @@
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [**Viscrete**](https://github.com/visionaries-cs/viscrete) | Thesis with team Visionaries: a visual inspection web app that detects concrete wall defects. **My role: UI/UX designer**: I designed the UI and structured the flow from image upload and CLAHE preprocessing to YOLOv11 detection and a PDF inspection report | Next.js · React · TypeScript · Tailwind CSS · YOLOv11 |
+| [**Viscrete**](https://github.com/visionaries-cs/viscrete) | Thesis with team Visionaries: a visual inspection web app that detects concrete wall defects. The system runs uploads through CLAHE preprocessing and YOLOv11 detection, then generates a PDF inspection report. **My role: UI/UX design and QA** | Next.js · React · TypeScript · Tailwind CSS · YOLOv11 |
 | [**MapaMars**](https://github.com/S-Urchin/MapaMars) | Team ProXy4: Marswalk planning app with a 2D route planner and shared missions. **I built the interactive 3D Mars globe** (landing sites, moons and orbiters via NASA JPL Horizons) and did UI/UX | React · three.js · Supabase |
 | [**Papeles**](https://github.com/Shiin-28/Papeles) | Step-by-step guides to Philippine government IDs and documents, with requirement checklists, fees, locations, crowd-reported wait times and last-checked dates; static pages load fast on budget phones *(in progress)* | Next.js · TypeScript · Prisma · SQLite |
 | [**Werewolf**](https://github.com/Shiin-28/Werewolf) | Real-time game master companion for Werewolf: players join from their devices with a code, with live role dealing, night actions, voting and win-condition checks in English and Japanese | Next.js · TypeScript · Supabase (PostgreSQL, Realtime) |
