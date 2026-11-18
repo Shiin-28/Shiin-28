@@ -25,7 +25,7 @@
 ### About me
 
 - 4th-year **BS Computer Science, major in Software Engineering (BSCSSE)** student at **FEU Tech**
-- **AI-driven web developer and UI/UX designer** from Manila, Philippines
+- **AI-driven web developer, UI/UX designer and QA tester** from Manila, Philippines
 - I build real-time, mobile-friendly web apps with **Next.js**, **React**, **TypeScript** and **Supabase**, and design the interfaces that make them easy to use
 - UI/UX designer and QA for **Viscrete**, my thesis team's computer-vision system for concrete defect detection
 - Also working with **Python**, **C++**, **PHP**, **SQL** and **MySQL**
