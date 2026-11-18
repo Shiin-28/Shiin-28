@@ -30,6 +30,7 @@
 - UI/UX designer and QA for **Viscrete**, my thesis team's computer-vision system for concrete defect detection
 - Also working with **Python**, **C++**, **PHP**, **SQL** and **MySQL**
 - Junior Officer and photographer for the **FEU Tech ACM Student Chapter** Media Committee
+- **Open to front-end development and QA internships**: reach me at [seankenlydelapena@gmail.com](mailto:seankenlydelapena@gmail.com)
 - Creative side: photo editing in **Adobe Photoshop** and **Lightroom**, video editing in **Adobe Premiere Pro**
 
 ### Tech stack
