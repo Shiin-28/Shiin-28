@@ -36,11 +36,14 @@
 ### Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,py,cpp,react,nextjs,tailwind,supabase,postgres,mysql,sqlite,prisma,git,github,vercel,figma,ps,pr&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,py,cpp,react,nextjs,tailwind,supabase,postgres,mysql,sqlite,prisma,git,github,vercel&theme=dark" alt="Tech stack" />
 </p>
 
 **Design tools**
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,pr&theme=dark" alt="Figma, Adobe Photoshop, Adobe Premiere Pro" />
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge" alt="Adobe Lightroom" />
 </p>
